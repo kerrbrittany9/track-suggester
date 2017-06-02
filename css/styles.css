@@ -17,6 +17,11 @@ body {
 #trackSurvey {
   padding: 50px
 }
+
+#app, #interests, #workEnvironment, #techInterest, #indicator {
+  color: #62ABA6;
+}
+  )
 /*@media screen and (min-width: 768px) {
   .column {
     width: 300px;
