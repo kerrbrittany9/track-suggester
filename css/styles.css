@@ -8,25 +8,26 @@ body {
     background-position: 0% 30%;
     background-size: cover;
     background-repeat: no-repeat;
+    color: pink;
 }
 
+.style {
+  font-family:sans-serif;
+  color: #62ABA6;
+  text-shadow: 2px 2px powderblue;
+}
 
 #CSS, #Csharp, #Ruby {
   display: none;
+  margin: 100px;
+  text-align: justify;
+  padding-right: 200px;
 }
 
 #form-group{
   padding: 50px;
-
 }
 
 #app, #interests, #workEnvironment, #techInterest, #indicator {
   color: #62ABA6;
 }
-  )
-/*@media screen and (min-width: 768px) {
-  .column {
-    width: 300px;
-    float: left;
-    padding: 20px;
-  }*/
