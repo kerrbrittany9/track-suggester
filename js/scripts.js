@@ -20,10 +20,11 @@ $(document).ready(function() {
       $("#CSS").click(function() {
       $(this).remove();
     });
-      // $("#Csharp").click(function() {
-      // $(this).remove();
-      // $("#Ruby").click(function() {
-      // $(this).remove();
-    // });
+      $("#Csharp").click(function() {
+        $(this).remove();
+    });
+      $("#Ruby").click(function() {
+      $(this).remove();
+    });
   });
 });
