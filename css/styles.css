@@ -1,0 +1,7 @@
+.jumbotron {
+    margin-bottom: 5px;
+    background-image: url(../img/e.jpg);
+    background-position: 0% 30%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
