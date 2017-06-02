@@ -9,3 +9,17 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
 }
+
+#CSS, #Csharp, #Ruby {
+  display:none;
+}
+
+#trackSurvey {
+  padding: 50px
+}
+/*@media screen and (min-width: 768px) {
+  .column {
+    width: 300px;
+    float: left;
+    padding: 20px;
+  }*/
