@@ -12,11 +12,14 @@ $(document).ready(function() {
 //     if (interests === 'math' && tech_interest === 'frontend') {
 //       $('#CSS').show();
 //       alert("Hey! How about learning CSS?");
-//     } else if (work_environment === 'big') {
+//     } else if (work_environment === 'big' || indicator === 'windows') {
 //       $('#Csharp').show();
 //       alert('Get ready for a sweet career in C#!');
+      else  {
+//       $('#Ruby').show();
+//       alert('Don't blush too much about learning Ruby!');
 //     }
-//       $("#PHP").click(function() {
+//       $("#Ruby").click(function() {
 //       $(this).remove();
 //     });
   });
