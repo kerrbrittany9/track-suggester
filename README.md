@@ -13,11 +13,8 @@ _This webpage was designed using HTML elements. The interface actions of the col
 * _enter your terminal and create a directory called track
 * _create a js and css directory within the track directory
 * _download bootstrap and jquery from the web and place in respective directores
-* _clone this repo from github [https://github.com/kerrbrittany9/track-suggester.git] and open it in atom by entering git clone and about url__
+* _clone this repo from github [https://github.com/kerrbrittany9/track-suggester.git] and open it in atom by entering git clone and above url__
 * _type open index.html into terminal and the webpage will appear in your browser__
-
-
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
 
 ## Known Bugs
 
