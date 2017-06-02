@@ -6,14 +6,14 @@ $(document).ready(function() {
     var work_environment = $("select#work_environment").val();
     var tech_interest = $("select#tech_interest").val();
     var app = $("select#app").val();
-    var limited_app_interest = $("select#limited_app_interest").val();
+    var indicator = $("select#indicator").val();
 //
 // // console.log('test')
 //     if (interests === 'math' && tech_interest === 'frontend') {
 //       $('#CSS').show();
 //       alert("Hey! How about learning CSS?");
 //     } else {
-//       $('#PHP').show();
+//       $('#Csharp').show();
 //       alert('Get ready for a sweet career in C#!');
 //     }
 //       $("#PHP").click(function() {
